@@ -29,6 +29,10 @@ h2 {
     float: right;
     background-color: aquamarine;
     text-align: center;
+    border: 10px groove salmon;
+    padding: 15px;
+    margin: 20px;
+
 }
 
 ul {
@@ -44,6 +48,7 @@ li::before {
 img {
     text-align: center;
     width: 50vw;
+    border: 20px ridge black;
 }
 
 
