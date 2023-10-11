@@ -1,0 +1,51 @@
+body {
+    background-image: url('/img/fire.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+}
+
+#purple {
+    color: purple;
+}
+
+.members {
+    color: aliceblue;
+    text-shadow: hotpink;
+    float: left;
+    background-color: red;
+}
+
+.sidebar{
+
+    width: 30%;
+    float: right;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li::before { 
+    content: '\1F982';
+    margin-left: -20px;
+    margin-right: 10px;
+}
+
+img {
+    text-align: center;
+    width: 50vw;
+}
+
+
+
+
