@@ -1,5 +1,5 @@
 body {
-    background-image: url('/img/fire.jpeg');
+    background-image: url('../img/fire.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
